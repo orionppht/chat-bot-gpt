@@ -1,0 +1,5 @@
+spring:
+  config:
+    name: chat-bot-gpt-app
+  profiles:
+    active: dev
